@@ -133,6 +133,36 @@ The GDSP aims to unify fragmented government services (e.g., Identity - Passport
 
 ---
 
+## 🗺️ Delivery Roadmap
+
+### Phase 1 — Foundation (0–6 Months)
+- Establish cloud landing zone
+- Deploy identity platform
+- Implement API Gateway
+- Baseline security controls
+
+### Phase 2 — Core Services (6–12 Months)
+- Enable citizen onboarding
+- Launch permits and grants services
+- Integrate notifications
+- Establish monitoring and reporting
+
+### Phase 3 — Scale & Optimise (12–18 Months)
+- Cross-agency integration
+- Mobile service expansion
+- Analytics and business intelligence
+- Operational automation
+
+### Phase 4 — Continuous Improvement (18+ Months)
+- AI-assisted workflows
+- Service optimisation
+- Advanced security analytics
+- Platform maturity and governance
+
+---
+
+---
+
 ## 🧭 8. Architecture Principles
 
 The platform is designed around the following enterprise principles:
