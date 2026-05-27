@@ -105,7 +105,33 @@ The GDSP aims to unify fragmented government services (e.g., Identity - Passport
 
 ---
 
-## 📚 7. Repository Structure
+## 🧭 6. Architecture Principles
+
+The platform is designed around the following enterprise principles:
+
+### Business Principles
+- Digital-first service delivery
+- Citizen-centric experience
+- Shared services and reuse
+
+### Data Principles
+- Single source of truth
+- Privacy by design
+- Secure and governed access
+
+### Application Principles
+- API-first integration
+- Modular and scalable services
+- Cloud-native deployment
+
+### Technology Principles
+- Security by default
+- Infrastructure as Code
+- Observability and operational resilience
+
+---
+
+## 📚 8. Repository Structure
 
 ```
 /gov-digital-service-platform/
