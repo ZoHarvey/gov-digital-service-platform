@@ -131,7 +131,7 @@ The platform is designed around the following enterprise principles:
 
 ---
 
-## 📚 8. Repository Structure
+## 📚 7. Repository Structure
 
 ```
 /gov-digital-service-platform/
