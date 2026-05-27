@@ -5,6 +5,8 @@ This GitHub repository demonstrates a complete **Enterprise Architecture (EA) re
 ---
 ## ✨ Overview
 
+![Government Digital Service Platform](docs/architecture-diagram.png)
+
 The GDSP aims to unify fragmented government services (e.g., Identity - Passport, National ID, Licensing, Registrations, Permits, Grants) into a secure, interoperable, cloud-native architecture for citizens and businesses a like.
 
 ---
