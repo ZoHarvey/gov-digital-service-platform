@@ -83,7 +83,35 @@ The GDSP aims to unify fragmented government services (e.g., Identity - Passport
 
 ---
 
-## 🚪 5. Security Architecture
+## 🏢 5. Enterprise Operating Model
+
+### Governance Layer
+- Executive Steering Committee
+- ICT Governance Committee
+- Architecture Review Board
+- Risk and Compliance Oversight
+
+### Delivery Layer
+- Product Teams
+- Shared Services
+- DevSecOps Enablement
+- Programme Delivery Management
+
+### Service Operations
+- IT Service Management (ITSM)
+- Incident Management
+- Change Enablement
+- Service Monitoring
+
+### Platform Operations
+- Identity & Access Management
+- Cloud Operations
+- Security Operations
+- Disaster Recovery
+
+---
+
+## 🚪 6. Security Architecture
 
 - RBAC for Portal (Citizen, Case Officer, Admin)
 - OAuth2 + OpenID Connect (via Azure AD B2C)
@@ -93,7 +121,7 @@ The GDSP aims to unify fragmented government services (e.g., Identity - Passport
 
 ---
 
-## ✈️ 6. Migration Plan (TOGAF Phases)
+## ✈️ 7. Migration Plan (TOGAF Phases)
 
 | Phase | Deliverable                                |
 |-------|--------------------------------------------|
@@ -105,7 +133,7 @@ The GDSP aims to unify fragmented government services (e.g., Identity - Passport
 
 ---
 
-## 🧭 6. Architecture Principles
+## 🧭 8. Architecture Principles
 
 The platform is designed around the following enterprise principles:
 
@@ -131,7 +159,7 @@ The platform is designed around the following enterprise principles:
 
 ---
 
-## 📚 7. Repository Structure
+## 📚 9. Repository Structure
 
 ```
 /gov-digital-service-platform/
